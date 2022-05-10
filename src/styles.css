@@ -1,0 +1,48 @@
+body {
+    width: 100%;
+}
+h2 {
+    padding-top: 30px;
+    
+}
+.table {
+    margin-top: 35px;
+}
+tr:nth-child(odd) {
+    background-color: rgb(244, 248, 250);
+}
+tr:nth-child(even) {
+    background-color: rgb(220, 230, 252);
+}
+th {
+    background-color: rgb(74, 88, 119);
+    color: whitesmoke;
+}
+button {
+    margin: 5px;   
+}
+.btn {
+    margin-top: 15px;
+}
+input {
+    margin: 5px;
+}
+select {
+    margin: 5px;
+}
+.btn-custom {
+    background-color: rgb(212, 215, 218);
+    border-color: black;
+    margin-top: 20px;
+}
+.btn-custom:hover {
+    background-color: rgb(161, 167, 167);
+}
+.lomake {
+    background-color: rgb(233, 247, 252);
+    padding: 20px;
+    margin: 5px;
+}
+h5 {
+    margin-bottom: 25px;
+}
